@@ -1,0 +1,95 @@
+*{
+    background-color: rgb(15, 14, 14);
+}
+
+.ho{
+    left: 0;
+    color: aliceblue;
+}
+.to{
+    left: 0;
+}
+.home{
+    color:white;
+}
+.home1{
+    color:white;
+}
+.home2{
+    color:white;
+}
+.home3{
+    color:white;
+}
+.home4{
+    color:white;
+}
+.home5{
+    color:white;
+}
+.fav{
+    top: 60px;
+    color: white;
+}
+.fav{
+    list-style-type: none;
+}
+#da{
+    list-style-type: none;
+    left: 0;
+    margin-left: 0;
+    padding: .5rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2px;
+    width: 100px;
+    height: 200px;
+}
+d1{
+    margin-top: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+main{
+    top: 0px;
+}
+.nav{
+    margin-top: 10px;
+}
+.arr{
+    margin-left: 300px;
+    top: 20px;
+}
+.good{
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+.good{
+    background-color: black;
+}
+.bad{
+    margin-left: 200px;
+    margin-top: 10px;
+    text-align: start;
+    color: aliceblue;
+}
+.be{
+    top: 0px
+}
+.top{
+    color: aliceblue;
+
+
+}
+.bor{
+    color: antiquewhite;
+    
+}
+.foo{
+    display: flex;
+}
+.play{
+    display: flex;
+}
